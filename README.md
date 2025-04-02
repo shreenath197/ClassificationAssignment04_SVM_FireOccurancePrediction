@@ -1,0 +1,2 @@
+# ClassificationAssignment04_SVM_FireOccurancePrediction
+ClassificationAssignment04_SVM_FireOccurancePrediction
